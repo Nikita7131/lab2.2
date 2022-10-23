@@ -1,8 +1,8 @@
-# lab2.2 від творця лаба 1.2 (~200 cимволів) в 3 рядка коду
+# lab2.2
 
 ![alt tag](https://github.com/Nikita7131/lab2.2/blob/main/images.png "Описание небудет)")​
 
-![alt tag](https://github.com/Nikita7131/lab2.2/blob/main/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0.pdf "Описание небудет)")​
+![alt tag](https://github.com/Nikita7131/lab2.2/blob/main/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0.png "Описание небудет)")​
 
 
 ```ruby
