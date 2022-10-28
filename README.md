@@ -55,11 +55,10 @@ int main(){
   printf("\n   4 - парабол");
   printf("\n   5 - всі методи\n");
 
-
-  do{
-    printf("\n ВАША ВІДПОВІДЬ: ");
-    scanf("%d", &Metod_Used);
-  }while(Metod_Used == 0 || Metod_Used >= 6); // перевіряєм правильність введених данних, діапазон методів 1-5
+  printf("\n ВАША ВІДПОВІДЬ: ");
+  while(scanf("%d", &Metod_Used) && Metod_Used - 1u >= 4){// перевіряєм правильність введених данних, діапазон методів 1-5
+  printf("\n error, please try again: \n");
+  } 
 
 
   printf("\n Виберіть кількість проміжків: ");
